@@ -1,0 +1,26 @@
+.Modal {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  right: 200px;
+  bottom: 200px;
+  background-color: papayawhip;
+}
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(grey, grey, grey, 0.9);
+  opacity: 1;
+}
+
+.modal-backdrop {
+  opacity: 0.5 !important;
+}
+
+input {
+  color: "white" !important;
+}

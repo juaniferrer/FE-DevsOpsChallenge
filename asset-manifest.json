@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/FE-DevsOpsChallenge/static/js/main.062d67de.chunk.js",
-    "main.js.map": "/FE-DevsOpsChallenge/static/js/main.062d67de.chunk.js.map",
-    "runtime-main.js": "/FE-DevsOpsChallenge/static/js/runtime-main.b0bcf019.js",
-    "runtime-main.js.map": "/FE-DevsOpsChallenge/static/js/runtime-main.b0bcf019.js.map",
-    "static/js/2.faf0c24d.chunk.js": "/FE-DevsOpsChallenge/static/js/2.faf0c24d.chunk.js",
-    "static/js/2.faf0c24d.chunk.js.map": "/FE-DevsOpsChallenge/static/js/2.faf0c24d.chunk.js.map",
-    "index.html": "/FE-DevsOpsChallenge/index.html",
-    "static/js/2.faf0c24d.chunk.js.LICENSE.txt": "/FE-DevsOpsChallenge/static/js/2.faf0c24d.chunk.js.LICENSE.txt",
-    "static/media/Acme.ea3e7e9a.svg": "/FE-DevsOpsChallenge/static/media/Acme.ea3e7e9a.svg"
+    "main.js": "/static/js/main.062d67de.chunk.js",
+    "main.js.map": "/static/js/main.062d67de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8233b8b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8233b8b5.js.map",
+    "static/js/2.20ee0e04.chunk.js": "/static/js/2.20ee0e04.chunk.js",
+    "static/js/2.20ee0e04.chunk.js.map": "/static/js/2.20ee0e04.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.20ee0e04.chunk.js.LICENSE.txt": "/static/js/2.20ee0e04.chunk.js.LICENSE.txt",
+    "static/media/Acme.ea3e7e9a.svg": "/static/media/Acme.ea3e7e9a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0bcf019.js",
-    "static/js/2.faf0c24d.chunk.js",
+    "static/js/runtime-main.8233b8b5.js",
+    "static/js/2.20ee0e04.chunk.js",
     "static/js/main.062d67de.chunk.js"
   ]
 }

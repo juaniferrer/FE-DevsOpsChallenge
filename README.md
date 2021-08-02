@@ -8,10 +8,10 @@ https://user-images.githubusercontent.com/28612338/127806758-b97ecf5f-ccaa-498a-
 
 The app features:
 
-- Login screen
-- Overview screen with all current assets asigned to developers (with the ability to assign new available assets to devs or release them.)
-- Assets screen with all assets (assigned or not). Users can add, delete and release assets from devs.
-- Developers screen that lists all active developers on the company. Users can add and delete them, and access which assets were assigned to a dev.
+- **Login screen**
+- **Overview screen** with all current assets asigned to developers (with the ability to assign new available assets to devs or release them.)
+- **Assets screen** with all assets (assigned or not). Users can add, delete and release assets from devs.
+- **Developers screen** that lists all active developers on the company. Users can add and delete them, and access which assets were assigned to a dev.
 
 ### Prerequisites
 
